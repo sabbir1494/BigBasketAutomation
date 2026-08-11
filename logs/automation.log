@@ -1,0 +1,988 @@
+2026-08-11 22:46:28,502 | INFO | builtins | ===== Test Execution Started =====
+2026-08-11 22:46:28,503 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-11 22:46:34,123 | INFO | builtins | Finished Scenario: Add a product to cart
+2026-08-11 22:46:34,125 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-11 22:46:36,250 | INFO | builtins | Finished Scenario: Remove a product from cart
+2026-08-11 22:46:36,251 | INFO | builtins | Starting Scenario: Open first category
+2026-08-11 22:46:38,291 | INFO | builtins | Finished Scenario: Open first category
+2026-08-11 22:46:38,291 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-11 22:46:40,288 | INFO | builtins | Finished Scenario: Verify category filters
+2026-08-11 22:46:40,289 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-11 22:46:42,342 | INFO | builtins | Finished Scenario: Verify footer section
+2026-08-11 22:46:42,342 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-11 22:46:44,419 | INFO | builtins | Finished Scenario: Verify footer links
+2026-08-11 22:46:44,419 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-11 22:46:46,370 | INFO | builtins | Finished Scenario: Open About Us page
+2026-08-11 22:46:46,371 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-11 22:46:48,322 | INFO | builtins | Finished Scenario: Open Contact Us page
+2026-08-11 22:46:48,322 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 22:46:50,291 | INFO | builtins | Finished Scenario: Verify homepage loads successfully
+2026-08-11 22:46:50,292 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-11 22:46:52,266 | INFO | builtins | Finished Scenario: Verify homepage title
+2026-08-11 22:46:52,267 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-11 22:46:54,403 | INFO | builtins | Finished Scenario: Verify homepage URL
+2026-08-11 22:46:54,405 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-11 22:46:56,537 | INFO | builtins | Finished Scenario: Verify search box
+2026-08-11 22:46:56,537 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 22:46:58,462 | INFO | builtins | Finished Scenario: Verify website logo
+2026-08-11 22:46:58,462 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-11 22:47:00,484 | INFO | builtins | Finished Scenario: Verify login popup
+2026-08-11 22:47:00,484 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-11 22:47:02,521 | INFO | builtins | Finished Scenario: Invalid login
+2026-08-11 22:47:02,522 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-11 22:47:04,502 | INFO | builtins | Finished Scenario: Verify product details
+2026-08-11 22:47:04,502 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-11 22:47:06,508 | INFO | builtins | Finished Scenario: Add product to cart
+2026-08-11 22:47:06,509 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-11 22:47:08,426 | INFO | builtins | Finished Scenario: Search for Milk
+2026-08-11 22:47:08,427 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-11 22:47:10,553 | INFO | builtins | Finished Scenario: Search for Rice
+2026-08-11 22:47:10,553 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-11 22:47:12,467 | INFO | builtins | Finished Scenario: Search for Biscuit
+2026-08-11 22:47:12,467 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-11 22:47:14,516 | INFO | builtins | Finished Scenario: Search for Egg
+2026-08-11 22:47:14,516 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-11 22:47:16,529 | INFO | builtins | Finished Scenario: Search for Cooking Oil
+2026-08-11 22:47:16,530 | INFO | builtins | ===== Test Execution Finished =====
+2026-08-11 22:49:53,722 | INFO | builtins | ===== Test Execution Started =====
+2026-08-11 22:49:53,723 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-11 22:49:56,038 | INFO | builtins | Finished Scenario: Add a product to cart
+2026-08-11 22:49:56,039 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-11 22:49:58,021 | INFO | builtins | Finished Scenario: Remove a product from cart
+2026-08-11 22:49:58,021 | INFO | builtins | Starting Scenario: Open first category
+2026-08-11 22:50:00,143 | INFO | builtins | Finished Scenario: Open first category
+2026-08-11 22:50:00,143 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-11 22:50:02,318 | INFO | builtins | Finished Scenario: Verify category filters
+2026-08-11 22:50:02,318 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-11 22:50:04,469 | INFO | builtins | Finished Scenario: Verify footer section
+2026-08-11 22:50:04,469 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-11 22:50:06,562 | INFO | builtins | Finished Scenario: Verify footer links
+2026-08-11 22:50:06,562 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-11 22:50:08,495 | INFO | builtins | Finished Scenario: Open About Us page
+2026-08-11 22:50:08,495 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-11 22:50:10,585 | INFO | builtins | Finished Scenario: Open Contact Us page
+2026-08-11 22:50:10,586 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 22:50:12,683 | INFO | builtins | Finished Scenario: Verify homepage loads successfully
+2026-08-11 22:50:12,683 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-11 22:50:14,963 | INFO | builtins | Finished Scenario: Verify homepage title
+2026-08-11 22:50:14,963 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-11 22:50:17,256 | INFO | builtins | Finished Scenario: Verify homepage URL
+2026-08-11 22:50:17,256 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-11 22:50:19,385 | INFO | builtins | Finished Scenario: Verify search box
+2026-08-11 22:50:19,385 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 22:50:21,674 | INFO | builtins | Finished Scenario: Verify website logo
+2026-08-11 22:50:21,674 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-11 22:50:23,792 | INFO | builtins | Finished Scenario: Verify login popup
+2026-08-11 22:50:23,792 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-11 22:50:25,795 | INFO | builtins | Finished Scenario: Invalid login
+2026-08-11 22:50:25,796 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-11 22:54:39,315 | INFO | builtins | ===== Test Execution Started =====
+2026-08-11 22:54:39,317 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-11 22:54:43,474 | INFO | builtins | Finished Scenario: Add a product to cart
+2026-08-11 22:54:43,475 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-11 22:54:46,694 | INFO | builtins | Finished Scenario: Remove a product from cart
+2026-08-11 22:54:46,695 | INFO | builtins | Starting Scenario: Open first category
+2026-08-11 22:55:05,411 | INFO | builtins | Finished Scenario: Open first category
+2026-08-11 22:55:05,411 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-11 22:55:24,260 | INFO | builtins | Finished Scenario: Verify category filters
+2026-08-11 22:55:24,261 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-11 22:55:27,196 | INFO | builtins | Finished Scenario: Verify footer section
+2026-08-11 22:55:27,197 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-11 22:55:30,228 | INFO | builtins | Finished Scenario: Verify footer links
+2026-08-11 22:55:30,228 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-11 22:55:34,597 | INFO | builtins | Finished Scenario: Open About Us page
+2026-08-11 22:55:34,597 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-11 22:55:38,999 | INFO | builtins | Finished Scenario: Open Contact Us page
+2026-08-11 22:55:39,000 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 23:08:55,530 | INFO | builtins | ===================================
+2026-08-11 23:08:55,530 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:08:55,530 | INFO | builtins | ===================================
+2026-08-11 23:08:55,532 | INFO | builtins | -----------------------------------
+2026-08-11 23:08:55,532 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-11 23:08:57,967 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:08:59,177 | INFO | builtins | Scenario PASSED: Add a product to cart
+2026-08-11 23:08:59,289 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-11 23:08:59,290 | INFO | builtins | -----------------------------------
+2026-08-11 23:08:59,290 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-11 23:09:00,563 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:01,396 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-11 23:09:01,507 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-11 23:09:01,508 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:01,508 | INFO | builtins | Starting Scenario: Open first category
+2026-08-11 23:09:02,920 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:19,197 | INFO | builtins | Scenario PASSED: Open first category
+2026-08-11 23:09:19,380 | INFO | builtins | Browser closed: Open first category
+2026-08-11 23:09:19,381 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:19,381 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-11 23:09:20,824 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:37,111 | INFO | builtins | Scenario PASSED: Verify category filters
+2026-08-11 23:09:37,230 | INFO | builtins | Browser closed: Verify category filters
+2026-08-11 23:09:37,231 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:37,231 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-11 23:09:38,734 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:39,695 | INFO | builtins | Scenario PASSED: Verify footer section
+2026-08-11 23:09:39,907 | INFO | builtins | Browser closed: Verify footer section
+2026-08-11 23:09:39,907 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:39,908 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-11 23:09:41,116 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:41,947 | INFO | builtins | Scenario PASSED: Verify footer links
+2026-08-11 23:09:42,057 | INFO | builtins | Browser closed: Verify footer links
+2026-08-11 23:09:42,057 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:42,057 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-11 23:09:43,305 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:45,212 | INFO | builtins | Scenario PASSED: Open About Us page
+2026-08-11 23:09:45,321 | INFO | builtins | Browser closed: Open About Us page
+2026-08-11 23:09:45,321 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:45,321 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-11 23:09:46,559 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:47,481 | ERROR | builtins | Scenario FAILED: Open Contact Us page
+2026-08-11 23:09:47,868 | INFO | builtins | Failure screenshot captured for: Open Contact Us page
+2026-08-11 23:09:47,974 | INFO | builtins | Browser closed: Open Contact Us page
+2026-08-11 23:09:47,975 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:47,975 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 23:09:49,463 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:50,299 | INFO | builtins | Scenario PASSED: Verify homepage loads successfully
+2026-08-11 23:09:50,402 | INFO | builtins | Browser closed: Verify homepage loads successfully
+2026-08-11 23:09:50,402 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:50,402 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-11 23:09:51,628 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:52,476 | INFO | builtins | Scenario PASSED: Verify homepage title
+2026-08-11 23:09:52,583 | INFO | builtins | Browser closed: Verify homepage title
+2026-08-11 23:09:52,584 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:52,584 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-11 23:09:54,012 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:54,961 | INFO | builtins | Scenario PASSED: Verify homepage URL
+2026-08-11 23:09:55,070 | INFO | builtins | Browser closed: Verify homepage URL
+2026-08-11 23:09:55,071 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:55,071 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-11 23:09:56,326 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:57,155 | INFO | builtins | Scenario PASSED: Verify search box
+2026-08-11 23:09:57,261 | INFO | builtins | Browser closed: Verify search box
+2026-08-11 23:09:57,262 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:57,262 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:09:58,690 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:09:59,502 | INFO | builtins | Scenario PASSED: Verify website logo
+2026-08-11 23:09:59,613 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:09:59,614 | INFO | builtins | -----------------------------------
+2026-08-11 23:09:59,614 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-11 23:10:00,860 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:02,951 | INFO | builtins | Scenario PASSED: Verify login popup
+2026-08-11 23:10:03,062 | INFO | builtins | Browser closed: Verify login popup
+2026-08-11 23:10:03,062 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:03,062 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-11 23:10:04,323 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:06,322 | INFO | builtins | Scenario PASSED: Invalid login
+2026-08-11 23:10:06,437 | INFO | builtins | Browser closed: Invalid login
+2026-08-11 23:10:06,437 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:06,437 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-11 23:10:07,678 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:08,497 | INFO | builtins | Scenario PASSED: Verify product details
+2026-08-11 23:10:08,602 | INFO | builtins | Browser closed: Verify product details
+2026-08-11 23:10:08,602 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:08,602 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-11 23:10:09,857 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:10,674 | INFO | builtins | Scenario PASSED: Add product to cart
+2026-08-11 23:10:10,787 | INFO | builtins | Browser closed: Add product to cart
+2026-08-11 23:10:10,788 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:10,788 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-11 23:10:12,109 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:12,997 | INFO | builtins | Scenario PASSED: Search for Milk
+2026-08-11 23:10:13,145 | INFO | builtins | Browser closed: Search for Milk
+2026-08-11 23:10:13,145 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:13,145 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-11 23:10:14,406 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:15,215 | INFO | builtins | Scenario PASSED: Search for Rice
+2026-08-11 23:10:15,376 | INFO | builtins | Browser closed: Search for Rice
+2026-08-11 23:10:15,377 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:15,377 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-11 23:10:16,819 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:17,669 | INFO | builtins | Scenario PASSED: Search for Biscuit
+2026-08-11 23:10:17,774 | INFO | builtins | Browser closed: Search for Biscuit
+2026-08-11 23:10:17,775 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:17,775 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-11 23:10:19,340 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:20,143 | INFO | builtins | Scenario PASSED: Search for Egg
+2026-08-11 23:10:20,243 | INFO | builtins | Browser closed: Search for Egg
+2026-08-11 23:10:20,244 | INFO | builtins | -----------------------------------
+2026-08-11 23:10:20,244 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-11 23:10:21,552 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:10:22,434 | INFO | builtins | Scenario PASSED: Search for Cooking Oil
+2026-08-11 23:10:22,536 | INFO | builtins | Browser closed: Search for Cooking Oil
+2026-08-11 23:10:22,537 | INFO | builtins | ===================================
+2026-08-11 23:10:22,537 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:10:22,537 | INFO | builtins | ===================================
+2026-08-11 23:16:31,425 | INFO | builtins | ===================================
+2026-08-11 23:16:31,425 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:16:31,425 | INFO | builtins | ===================================
+2026-08-11 23:16:31,426 | INFO | builtins | -----------------------------------
+2026-08-11 23:16:31,426 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 23:16:33,757 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:16:34,769 | INFO | builtins | Scenario PASSED: Verify homepage loads successfully
+2026-08-11 23:16:34,887 | INFO | builtins | Browser closed: Verify homepage loads successfully
+2026-08-11 23:16:34,887 | INFO | builtins | -----------------------------------
+2026-08-11 23:16:34,887 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-11 23:16:36,682 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:16:37,592 | INFO | builtins | Scenario PASSED: Verify homepage title
+2026-08-11 23:16:37,702 | INFO | builtins | Browser closed: Verify homepage title
+2026-08-11 23:16:37,702 | INFO | builtins | -----------------------------------
+2026-08-11 23:16:37,702 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-11 23:16:39,601 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:16:40,407 | INFO | builtins | Scenario PASSED: Verify homepage URL
+2026-08-11 23:16:40,514 | INFO | builtins | Browser closed: Verify homepage URL
+2026-08-11 23:16:40,514 | INFO | builtins | -----------------------------------
+2026-08-11 23:16:40,514 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-11 23:16:42,464 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:16:43,373 | INFO | builtins | Scenario PASSED: Verify search box
+2026-08-11 23:16:43,479 | INFO | builtins | Browser closed: Verify search box
+2026-08-11 23:16:43,480 | INFO | builtins | -----------------------------------
+2026-08-11 23:16:43,480 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:16:45,379 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:16:46,331 | ERROR | builtins | Scenario FAILED: Verify website logo
+2026-08-11 23:16:46,441 | INFO | builtins | Failure screenshot captured for: Verify website logo
+2026-08-11 23:16:46,448 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:16:46,449 | INFO | builtins | ===================================
+2026-08-11 23:16:46,449 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:16:46,449 | INFO | builtins | ===================================
+2026-08-11 23:20:40,732 | INFO | builtins | ===================================
+2026-08-11 23:20:40,733 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:20:40,733 | INFO | builtins | ===================================
+2026-08-11 23:20:40,734 | INFO | builtins | -----------------------------------
+2026-08-11 23:20:40,734 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 23:20:43,313 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:20:44,554 | INFO | builtins | Scenario PASSED: Verify homepage loads successfully
+2026-08-11 23:20:44,741 | INFO | builtins | Browser closed: Verify homepage loads successfully
+2026-08-11 23:20:44,742 | INFO | builtins | -----------------------------------
+2026-08-11 23:20:44,742 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-11 23:20:46,612 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:20:47,539 | INFO | builtins | Scenario PASSED: Verify homepage title
+2026-08-11 23:20:47,647 | INFO | builtins | Browser closed: Verify homepage title
+2026-08-11 23:20:47,648 | INFO | builtins | -----------------------------------
+2026-08-11 23:20:47,648 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-11 23:20:49,404 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:20:50,311 | INFO | builtins | Scenario PASSED: Verify homepage URL
+2026-08-11 23:20:50,421 | INFO | builtins | Browser closed: Verify homepage URL
+2026-08-11 23:20:50,421 | INFO | builtins | -----------------------------------
+2026-08-11 23:20:50,421 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-11 23:20:52,230 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:20:53,196 | INFO | builtins | Scenario PASSED: Verify search box
+2026-08-11 23:20:53,314 | INFO | builtins | Browser closed: Verify search box
+2026-08-11 23:20:53,314 | INFO | builtins | -----------------------------------
+2026-08-11 23:20:53,314 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:20:55,233 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:20:55,374 | ERROR | builtins | Scenario FAILED: Verify website logo
+2026-08-11 23:20:55,576 | INFO | builtins | Failure screenshot captured for: Verify website logo
+2026-08-11 23:20:55,582 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:20:55,582 | INFO | builtins | ===================================
+2026-08-11 23:20:55,582 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:20:55,582 | INFO | builtins | ===================================
+2026-08-11 23:23:02,187 | INFO | builtins | ===================================
+2026-08-11 23:23:02,187 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:23:02,187 | INFO | builtins | ===================================
+2026-08-11 23:23:02,188 | INFO | builtins | -----------------------------------
+2026-08-11 23:23:02,188 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-11 23:23:04,285 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:23:05,329 | INFO | builtins | Scenario PASSED: Verify homepage loads successfully
+2026-08-11 23:23:05,440 | INFO | builtins | Browser closed: Verify homepage loads successfully
+2026-08-11 23:23:05,440 | INFO | builtins | -----------------------------------
+2026-08-11 23:23:05,440 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-11 23:23:07,261 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:23:08,138 | INFO | builtins | Scenario PASSED: Verify homepage title
+2026-08-11 23:23:08,240 | INFO | builtins | Browser closed: Verify homepage title
+2026-08-11 23:23:08,241 | INFO | builtins | -----------------------------------
+2026-08-11 23:23:08,241 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-11 23:23:10,023 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:23:10,865 | INFO | builtins | Scenario PASSED: Verify homepage URL
+2026-08-11 23:23:10,983 | INFO | builtins | Browser closed: Verify homepage URL
+2026-08-11 23:23:10,983 | INFO | builtins | -----------------------------------
+2026-08-11 23:23:10,983 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-11 23:23:12,905 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:23:13,857 | INFO | builtins | Scenario PASSED: Verify search box
+2026-08-11 23:23:13,967 | INFO | builtins | Browser closed: Verify search box
+2026-08-11 23:23:13,967 | INFO | builtins | -----------------------------------
+2026-08-11 23:23:13,967 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:23:15,821 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:23:31,192 | ERROR | builtins | Scenario FAILED: Verify website logo
+2026-08-11 23:23:31,306 | INFO | builtins | Failure screenshot captured for: Verify website logo
+2026-08-11 23:23:31,312 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:23:31,313 | INFO | builtins | ===================================
+2026-08-11 23:23:31,313 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:23:31,313 | INFO | builtins | ===================================
+2026-08-11 23:28:42,313 | INFO | builtins | ===================================
+2026-08-11 23:28:42,313 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:28:42,314 | INFO | builtins | ===================================
+2026-08-11 23:28:42,315 | INFO | builtins | -----------------------------------
+2026-08-11 23:28:42,315 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:28:44,776 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:29:01,169 | ERROR | builtins | Scenario FAILED: Verify website logo
+2026-08-11 23:29:01,303 | INFO | builtins | Failure screenshot captured for: Verify website logo
+2026-08-11 23:29:01,311 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:29:01,311 | INFO | builtins | ===================================
+2026-08-11 23:29:01,311 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:29:01,311 | INFO | builtins | ===================================
+2026-08-11 23:37:21,307 | INFO | builtins | ===================================
+2026-08-11 23:37:21,308 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:37:21,308 | INFO | builtins | ===================================
+2026-08-11 23:37:21,309 | INFO | builtins | -----------------------------------
+2026-08-11 23:37:21,309 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:37:23,951 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:37:40,178 | ERROR | builtins | Scenario FAILED: Verify website logo
+2026-08-11 23:37:40,311 | INFO | builtins | Failure screenshot captured for: Verify website logo
+2026-08-11 23:37:40,318 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:37:40,318 | INFO | builtins | ===================================
+2026-08-11 23:37:40,318 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:37:40,318 | INFO | builtins | ===================================
+2026-08-11 23:40:35,553 | INFO | builtins | ===================================
+2026-08-11 23:40:35,553 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:40:35,553 | INFO | builtins | ===================================
+2026-08-11 23:40:35,554 | INFO | builtins | -----------------------------------
+2026-08-11 23:40:35,554 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-11 23:40:38,057 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:40:39,217 | INFO | builtins | Scenario PASSED: Verify website logo
+2026-08-11 23:40:39,327 | INFO | builtins | Browser closed: Verify website logo
+2026-08-11 23:40:39,327 | INFO | builtins | ===================================
+2026-08-11 23:40:39,327 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:40:39,327 | INFO | builtins | ===================================
+2026-08-11 23:42:55,885 | INFO | builtins | ===================================
+2026-08-11 23:42:55,885 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:42:55,885 | INFO | builtins | ===================================
+2026-08-11 23:42:55,887 | INFO | builtins | -----------------------------------
+2026-08-11 23:42:55,887 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-11 23:42:58,628 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:43:14,735 | ERROR | builtins | Scenario FAILED: Search for Milk
+2026-08-11 23:43:14,870 | INFO | builtins | Failure screenshot captured for: Search for Milk
+2026-08-11 23:43:14,878 | INFO | builtins | Browser closed: Search for Milk
+2026-08-11 23:43:14,878 | INFO | builtins | -----------------------------------
+2026-08-11 23:43:14,880 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-11 23:43:16,735 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:43:19,735 | INFO | builtins | Scenario PASSED: Search for Rice
+2026-08-11 23:43:19,855 | INFO | builtins | Browser closed: Search for Rice
+2026-08-11 23:43:19,856 | INFO | builtins | -----------------------------------
+2026-08-11 23:43:19,856 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-11 23:43:21,622 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:43:37,509 | ERROR | builtins | Scenario FAILED: Search for Biscuit
+2026-08-11 23:43:37,650 | INFO | builtins | Failure screenshot captured for: Search for Biscuit
+2026-08-11 23:43:37,657 | INFO | builtins | Browser closed: Search for Biscuit
+2026-08-11 23:43:37,657 | INFO | builtins | -----------------------------------
+2026-08-11 23:43:37,657 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-11 23:43:39,570 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:43:55,478 | ERROR | builtins | Scenario FAILED: Search for Egg
+2026-08-11 23:43:55,599 | INFO | builtins | Failure screenshot captured for: Search for Egg
+2026-08-11 23:43:55,606 | INFO | builtins | Browser closed: Search for Egg
+2026-08-11 23:43:55,607 | INFO | builtins | -----------------------------------
+2026-08-11 23:43:55,607 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-11 23:43:57,391 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:44:13,293 | ERROR | builtins | Scenario FAILED: Search for Cooking Oil
+2026-08-11 23:44:13,410 | INFO | builtins | Failure screenshot captured for: Search for Cooking Oil
+2026-08-11 23:44:13,415 | INFO | builtins | Browser closed: Search for Cooking Oil
+2026-08-11 23:44:13,416 | INFO | builtins | ===================================
+2026-08-11 23:44:13,416 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:44:13,416 | INFO | builtins | ===================================
+2026-08-11 23:47:09,180 | INFO | builtins | ===================================
+2026-08-11 23:47:09,180 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:47:09,180 | INFO | builtins | ===================================
+2026-08-11 23:47:09,181 | INFO | builtins | -----------------------------------
+2026-08-11 23:47:09,181 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-11 23:47:11,278 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:47:27,378 | ERROR | builtins | Scenario FAILED: Search for Milk
+2026-08-11 23:47:27,535 | INFO | builtins | Failure screenshot captured for: Search for Milk
+2026-08-11 23:47:27,540 | INFO | builtins | Browser closed: Search for Milk
+2026-08-11 23:47:27,541 | INFO | builtins | -----------------------------------
+2026-08-11 23:47:27,541 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-11 23:47:29,545 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:47:45,536 | ERROR | builtins | Scenario FAILED: Search for Rice
+2026-08-11 23:47:45,661 | INFO | builtins | Failure screenshot captured for: Search for Rice
+2026-08-11 23:47:45,669 | INFO | builtins | Browser closed: Search for Rice
+2026-08-11 23:47:45,669 | INFO | builtins | -----------------------------------
+2026-08-11 23:47:45,670 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-11 23:47:47,690 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:48:03,647 | ERROR | builtins | Scenario FAILED: Search for Biscuit
+2026-08-11 23:48:03,768 | INFO | builtins | Failure screenshot captured for: Search for Biscuit
+2026-08-11 23:48:03,774 | INFO | builtins | Browser closed: Search for Biscuit
+2026-08-11 23:48:03,775 | INFO | builtins | -----------------------------------
+2026-08-11 23:48:03,775 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-11 23:48:05,756 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:48:21,725 | ERROR | builtins | Scenario FAILED: Search for Egg
+2026-08-11 23:48:21,859 | INFO | builtins | Failure screenshot captured for: Search for Egg
+2026-08-11 23:48:21,866 | INFO | builtins | Browser closed: Search for Egg
+2026-08-11 23:48:21,867 | INFO | builtins | -----------------------------------
+2026-08-11 23:48:21,867 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-11 23:48:23,892 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:48:39,909 | ERROR | builtins | Scenario FAILED: Search for Cooking Oil
+2026-08-11 23:48:40,040 | INFO | builtins | Failure screenshot captured for: Search for Cooking Oil
+2026-08-11 23:48:40,049 | INFO | builtins | Browser closed: Search for Cooking Oil
+2026-08-11 23:48:40,049 | INFO | builtins | ===================================
+2026-08-11 23:48:40,049 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:48:40,049 | INFO | builtins | ===================================
+2026-08-11 23:50:43,449 | INFO | builtins | ===================================
+2026-08-11 23:50:43,449 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:50:43,449 | INFO | builtins | ===================================
+2026-08-11 23:50:43,450 | INFO | builtins | -----------------------------------
+2026-08-11 23:50:43,451 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-11 23:50:46,008 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:50:50,886 | INFO | builtins | Scenario PASSED: Search for Milk
+2026-08-11 23:50:51,126 | INFO | builtins | Browser closed: Search for Milk
+2026-08-11 23:50:51,126 | INFO | builtins | -----------------------------------
+2026-08-11 23:50:51,126 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-11 23:50:53,098 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:50:57,598 | INFO | builtins | Scenario PASSED: Search for Rice
+2026-08-11 23:50:57,732 | INFO | builtins | Browser closed: Search for Rice
+2026-08-11 23:50:57,732 | INFO | builtins | -----------------------------------
+2026-08-11 23:50:57,733 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-11 23:50:59,647 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:51:05,902 | INFO | builtins | Scenario PASSED: Search for Biscuit
+2026-08-11 23:51:06,037 | INFO | builtins | Browser closed: Search for Biscuit
+2026-08-11 23:51:06,038 | INFO | builtins | -----------------------------------
+2026-08-11 23:51:06,038 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-11 23:51:07,848 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:51:11,796 | INFO | builtins | Scenario PASSED: Search for Egg
+2026-08-11 23:51:11,941 | INFO | builtins | Browser closed: Search for Egg
+2026-08-11 23:51:11,941 | INFO | builtins | -----------------------------------
+2026-08-11 23:51:11,941 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-11 23:51:13,837 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:51:23,623 | INFO | builtins | Scenario PASSED: Search for Cooking Oil
+2026-08-11 23:51:23,747 | INFO | builtins | Browser closed: Search for Cooking Oil
+2026-08-11 23:51:23,747 | INFO | builtins | ===================================
+2026-08-11 23:51:23,747 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:51:23,747 | INFO | builtins | ===================================
+2026-08-11 23:53:14,566 | INFO | builtins | ===================================
+2026-08-11 23:53:14,566 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:53:14,566 | INFO | builtins | ===================================
+2026-08-11 23:53:14,567 | INFO | builtins | -----------------------------------
+2026-08-11 23:53:14,567 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-11 23:53:17,610 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:53:22,589 | ERROR | builtins | Scenario FAILED: Verify product details
+2026-08-11 23:53:22,745 | INFO | builtins | Failure screenshot captured for: Verify product details
+2026-08-11 23:53:22,752 | INFO | builtins | Browser closed: Verify product details
+2026-08-11 23:53:22,752 | INFO | builtins | -----------------------------------
+2026-08-11 23:53:22,752 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-11 23:53:24,715 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:53:30,010 | ERROR | builtins | Scenario FAILED: Add product to cart
+2026-08-11 23:53:30,174 | INFO | builtins | Failure screenshot captured for: Add product to cart
+2026-08-11 23:53:30,181 | INFO | builtins | Browser closed: Add product to cart
+2026-08-11 23:53:30,181 | INFO | builtins | ===================================
+2026-08-11 23:53:30,182 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:53:30,182 | INFO | builtins | ===================================
+2026-08-11 23:55:11,612 | INFO | builtins | ===================================
+2026-08-11 23:55:11,612 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:55:11,612 | INFO | builtins | ===================================
+2026-08-11 23:55:11,614 | INFO | builtins | -----------------------------------
+2026-08-11 23:55:11,614 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-11 23:55:14,015 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:55:19,195 | INFO | builtins | Scenario PASSED: Verify product details
+2026-08-11 23:55:19,436 | INFO | builtins | Browser closed: Verify product details
+2026-08-11 23:55:19,437 | INFO | builtins | -----------------------------------
+2026-08-11 23:55:19,437 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-11 23:55:21,955 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:55:29,428 | INFO | builtins | Scenario PASSED: Add product to cart
+2026-08-11 23:55:29,572 | INFO | builtins | Browser closed: Add product to cart
+2026-08-11 23:55:29,572 | INFO | builtins | ===================================
+2026-08-11 23:55:29,572 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:55:29,572 | INFO | builtins | ===================================
+2026-08-11 23:59:21,197 | INFO | builtins | ===================================
+2026-08-11 23:59:21,197 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-11 23:59:21,197 | INFO | builtins | ===================================
+2026-08-11 23:59:21,198 | INFO | builtins | -----------------------------------
+2026-08-11 23:59:21,198 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-11 23:59:23,471 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:59:28,177 | INFO | builtins | Scenario PASSED: Verify product details
+2026-08-11 23:59:28,308 | INFO | builtins | Browser closed: Verify product details
+2026-08-11 23:59:28,308 | INFO | builtins | -----------------------------------
+2026-08-11 23:59:28,308 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-11 23:59:30,219 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-11 23:59:43,718 | INFO | builtins | Scenario PASSED: Add product to cart
+2026-08-11 23:59:43,871 | INFO | builtins | Browser closed: Add product to cart
+2026-08-11 23:59:43,871 | INFO | builtins | ===================================
+2026-08-11 23:59:43,871 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-11 23:59:43,871 | INFO | builtins | ===================================
+2026-08-12 00:03:57,839 | INFO | builtins | ===================================
+2026-08-12 00:03:57,839 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 00:03:57,839 | INFO | builtins | ===================================
+2026-08-12 00:03:57,840 | INFO | builtins | -----------------------------------
+2026-08-12 00:03:57,840 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-12 00:04:02,067 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:04:06,941 | INFO | builtins | Scenario PASSED: Verify product details
+2026-08-12 00:04:07,071 | INFO | builtins | Browser closed: Verify product details
+2026-08-12 00:04:07,071 | INFO | builtins | -----------------------------------
+2026-08-12 00:04:07,071 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-12 00:04:08,828 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:04:16,338 | INFO | builtins | Scenario PASSED: Add product to cart
+2026-08-12 00:04:16,468 | INFO | builtins | Browser closed: Add product to cart
+2026-08-12 00:04:16,468 | INFO | builtins | ===================================
+2026-08-12 00:04:16,468 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 00:04:16,469 | INFO | builtins | ===================================
+2026-08-12 00:06:39,276 | INFO | builtins | ===================================
+2026-08-12 00:06:39,276 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 00:06:39,277 | INFO | builtins | ===================================
+2026-08-12 00:06:39,278 | INFO | builtins | -----------------------------------
+2026-08-12 00:06:39,278 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 00:06:41,412 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:06:49,172 | ERROR | builtins | Scenario FAILED: Add a product to cart
+2026-08-12 00:06:49,302 | INFO | builtins | Failure screenshot captured for: Add a product to cart
+2026-08-12 00:06:49,310 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 00:06:49,310 | INFO | builtins | -----------------------------------
+2026-08-12 00:06:49,310 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 00:06:51,272 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:07:09,214 | ERROR | builtins | Scenario FAILED: Remove a product from cart
+2026-08-12 00:07:09,453 | INFO | builtins | Failure screenshot captured for: Remove a product from cart
+2026-08-12 00:07:09,462 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 00:07:09,462 | INFO | builtins | ===================================
+2026-08-12 00:07:09,462 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 00:07:09,462 | INFO | builtins | ===================================
+2026-08-12 00:10:36,016 | INFO | builtins | ===================================
+2026-08-12 00:10:36,016 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 00:10:36,017 | INFO | builtins | ===================================
+2026-08-12 00:10:36,018 | INFO | builtins | -----------------------------------
+2026-08-12 00:10:36,018 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 00:10:38,444 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:10:46,502 | ERROR | builtins | Scenario FAILED: Add a product to cart
+2026-08-12 00:10:46,779 | INFO | builtins | Failure screenshot captured for: Add a product to cart
+2026-08-12 00:10:46,918 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 00:10:46,919 | INFO | builtins | -----------------------------------
+2026-08-12 00:10:46,919 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 00:10:49,908 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:11:09,423 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-12 00:11:09,574 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 00:11:09,574 | INFO | builtins | ===================================
+2026-08-12 00:11:09,574 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 00:11:09,574 | INFO | builtins | ===================================
+2026-08-12 00:13:50,061 | INFO | builtins | ===================================
+2026-08-12 00:13:50,062 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 00:13:50,062 | INFO | builtins | ===================================
+2026-08-12 00:13:50,063 | INFO | builtins | -----------------------------------
+2026-08-12 00:13:50,063 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 00:13:52,814 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:14:15,640 | ERROR | builtins | Scenario FAILED: Add a product to cart
+2026-08-12 00:14:15,926 | INFO | builtins | Failure screenshot captured for: Add a product to cart
+2026-08-12 00:14:16,072 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 00:14:16,072 | INFO | builtins | -----------------------------------
+2026-08-12 00:14:16,072 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 00:14:17,948 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:14:36,948 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-12 00:14:37,108 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 00:14:37,108 | INFO | builtins | ===================================
+2026-08-12 00:14:37,109 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 00:14:37,109 | INFO | builtins | ===================================
+2026-08-12 00:16:51,556 | INFO | builtins | ===================================
+2026-08-12 00:16:51,556 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 00:16:51,556 | INFO | builtins | ===================================
+2026-08-12 00:16:51,557 | INFO | builtins | -----------------------------------
+2026-08-12 00:16:51,557 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 00:16:55,781 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:17:03,101 | ERROR | builtins | Scenario FAILED: Add a product to cart
+2026-08-12 00:17:03,361 | INFO | builtins | Failure screenshot captured for: Add a product to cart
+2026-08-12 00:17:03,495 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 00:17:03,495 | INFO | builtins | -----------------------------------
+2026-08-12 00:17:03,495 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 00:17:04,772 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:17:23,142 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-12 00:17:23,305 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 00:17:23,305 | INFO | builtins | ===================================
+2026-08-12 00:17:23,305 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 00:17:23,305 | INFO | builtins | ===================================
+2026-08-12 00:22:13,685 | INFO | builtins | ===================================
+2026-08-12 00:22:13,686 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 00:22:13,686 | INFO | builtins | ===================================
+2026-08-12 00:22:13,687 | INFO | builtins | -----------------------------------
+2026-08-12 00:22:13,687 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 00:22:15,441 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:22:30,565 | INFO | builtins | Scenario PASSED: Add a product to cart
+2026-08-12 00:22:30,736 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 00:22:30,737 | INFO | builtins | -----------------------------------
+2026-08-12 00:22:30,737 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 00:22:31,985 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 00:22:50,391 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-12 00:22:50,571 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 00:22:50,572 | INFO | builtins | ===================================
+2026-08-12 00:22:50,572 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 00:22:50,572 | INFO | builtins | ===================================
+2026-08-12 01:10:21,608 | INFO | builtins | ===================================
+2026-08-12 01:10:21,608 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 01:10:21,608 | INFO | builtins | ===================================
+2026-08-12 01:10:21,609 | INFO | builtins | -----------------------------------
+2026-08-12 01:10:21,609 | INFO | builtins | Starting Scenario: Open first category
+2026-08-12 01:10:23,752 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:10:40,226 | INFO | builtins | Scenario PASSED: Open first category
+2026-08-12 01:10:40,457 | INFO | builtins | Browser closed: Open first category
+2026-08-12 01:10:40,458 | INFO | builtins | -----------------------------------
+2026-08-12 01:10:40,458 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-12 01:10:41,750 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:10:58,026 | INFO | builtins | Scenario PASSED: Verify category filters
+2026-08-12 01:10:58,168 | INFO | builtins | Browser closed: Verify category filters
+2026-08-12 01:10:58,168 | INFO | builtins | ===================================
+2026-08-12 01:10:58,168 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 01:10:58,168 | INFO | builtins | ===================================
+2026-08-12 01:18:40,579 | INFO | builtins | ===================================
+2026-08-12 01:18:40,579 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 01:18:40,579 | INFO | builtins | ===================================
+2026-08-12 01:18:40,580 | INFO | builtins | -----------------------------------
+2026-08-12 01:18:40,580 | INFO | builtins | Starting Scenario: Open first category
+2026-08-12 01:18:42,640 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:19:05,003 | INFO | builtins | Scenario PASSED: Open first category
+2026-08-12 01:19:05,143 | INFO | builtins | Browser closed: Open first category
+2026-08-12 01:19:05,144 | INFO | builtins | -----------------------------------
+2026-08-12 01:19:05,144 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-12 01:19:06,432 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:19:23,165 | INFO | builtins | Scenario PASSED: Verify category filters
+2026-08-12 01:19:23,307 | INFO | builtins | Browser closed: Verify category filters
+2026-08-12 01:19:23,308 | INFO | builtins | ===================================
+2026-08-12 01:19:23,308 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 01:19:23,308 | INFO | builtins | ===================================
+2026-08-12 01:42:01,055 | INFO | builtins | ===================================
+2026-08-12 01:42:01,056 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 01:42:01,056 | INFO | builtins | ===================================
+2026-08-12 01:42:01,057 | INFO | builtins | -----------------------------------
+2026-08-12 01:42:01,057 | INFO | builtins | Starting Scenario: Open first category
+2026-08-12 01:42:03,416 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:42:05,051 | INFO | builtins | Scenario PASSED: Open first category
+2026-08-12 01:42:05,176 | INFO | builtins | Browser closed: Open first category
+2026-08-12 01:42:05,177 | INFO | builtins | -----------------------------------
+2026-08-12 01:42:05,177 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-12 01:42:06,445 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:42:07,754 | INFO | builtins | Scenario PASSED: Verify category filters
+2026-08-12 01:42:07,867 | INFO | builtins | Browser closed: Verify category filters
+2026-08-12 01:42:07,867 | INFO | builtins | ===================================
+2026-08-12 01:42:07,867 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 01:42:07,867 | INFO | builtins | ===================================
+2026-08-12 01:49:58,521 | INFO | builtins | ===================================
+2026-08-12 01:49:58,522 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 01:49:58,524 | INFO | builtins | ===================================
+2026-08-12 01:49:58,526 | INFO | builtins | -----------------------------------
+2026-08-12 01:49:58,526 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-12 01:50:01,916 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:50:06,747 | INFO | builtins | Scenario PASSED: Verify login popup
+2026-08-12 01:50:06,956 | INFO | builtins | Browser closed: Verify login popup
+2026-08-12 01:50:06,957 | INFO | builtins | -----------------------------------
+2026-08-12 01:50:06,957 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-12 01:50:08,559 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:50:28,011 | ERROR | builtins | Scenario FAILED: Invalid login
+2026-08-12 01:50:28,222 | INFO | builtins | Failure screenshot captured for: Invalid login
+2026-08-12 01:50:28,358 | INFO | builtins | Browser closed: Invalid login
+2026-08-12 01:50:28,358 | INFO | builtins | ===================================
+2026-08-12 01:50:28,358 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 01:50:28,358 | INFO | builtins | ===================================
+2026-08-12 01:51:27,019 | INFO | builtins | ===================================
+2026-08-12 01:51:27,019 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 01:51:27,019 | INFO | builtins | ===================================
+2026-08-12 01:51:27,021 | INFO | builtins | -----------------------------------
+2026-08-12 01:51:27,021 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-12 01:51:29,093 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:51:32,389 | INFO | builtins | Scenario PASSED: Verify login popup
+2026-08-12 01:51:32,572 | INFO | builtins | Browser closed: Verify login popup
+2026-08-12 01:51:32,573 | INFO | builtins | -----------------------------------
+2026-08-12 01:51:32,574 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-12 01:51:34,080 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 01:51:37,578 | INFO | builtins | Scenario PASSED: Invalid login
+2026-08-12 01:51:37,807 | INFO | builtins | Browser closed: Invalid login
+2026-08-12 01:51:37,808 | INFO | builtins | ===================================
+2026-08-12 01:51:37,808 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 01:51:37,808 | INFO | builtins | ===================================
+2026-08-12 02:09:11,986 | INFO | builtins | ===================================
+2026-08-12 02:09:11,987 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 02:09:11,987 | INFO | builtins | ===================================
+2026-08-12 02:09:11,989 | INFO | builtins | -----------------------------------
+2026-08-12 02:09:11,989 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-12 02:09:14,416 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:09:15,640 | INFO | builtins | Scenario PASSED: Verify footer section
+2026-08-12 02:09:15,817 | INFO | builtins | Browser closed: Verify footer section
+2026-08-12 02:09:15,821 | INFO | builtins | -----------------------------------
+2026-08-12 02:09:15,821 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-12 02:09:17,598 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:09:18,666 | INFO | builtins | Scenario PASSED: Verify footer links
+2026-08-12 02:09:18,876 | INFO | builtins | Browser closed: Verify footer links
+2026-08-12 02:09:18,877 | INFO | builtins | -----------------------------------
+2026-08-12 02:09:18,877 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-12 02:09:20,292 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:09:36,823 | INFO | builtins | Scenario PASSED: Open About Us page
+2026-08-12 02:09:36,979 | INFO | builtins | Browser closed: Open About Us page
+2026-08-12 02:09:36,980 | INFO | builtins | -----------------------------------
+2026-08-12 02:09:36,980 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-12 02:09:38,341 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:09:54,963 | INFO | builtins | Scenario PASSED: Open Contact Us page
+2026-08-12 02:09:55,129 | INFO | builtins | Browser closed: Open Contact Us page
+2026-08-12 02:09:55,130 | INFO | builtins | ===================================
+2026-08-12 02:09:55,131 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 02:09:55,131 | INFO | builtins | ===================================
+2026-08-12 02:12:08,102 | INFO | builtins | ===================================
+2026-08-12 02:12:08,102 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 02:12:08,102 | INFO | builtins | ===================================
+2026-08-12 02:12:08,103 | INFO | builtins | -----------------------------------
+2026-08-12 02:12:08,103 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-12 02:12:09,984 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:12:11,183 | INFO | builtins | Scenario PASSED: Verify footer section
+2026-08-12 02:12:11,503 | INFO | builtins | Browser closed: Verify footer section
+2026-08-12 02:12:11,504 | INFO | builtins | -----------------------------------
+2026-08-12 02:12:11,504 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-12 02:12:12,899 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:12:14,105 | INFO | builtins | Scenario PASSED: Verify footer links
+2026-08-12 02:12:14,419 | INFO | builtins | Browser closed: Verify footer links
+2026-08-12 02:12:14,420 | INFO | builtins | -----------------------------------
+2026-08-12 02:12:14,420 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-12 02:12:15,820 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:12:32,265 | INFO | builtins | Scenario PASSED: Open About Us page
+2026-08-12 02:12:32,428 | INFO | builtins | Browser closed: Open About Us page
+2026-08-12 02:12:32,429 | INFO | builtins | -----------------------------------
+2026-08-12 02:12:32,429 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-12 02:12:33,924 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:12:50,469 | INFO | builtins | Scenario PASSED: Open Contact Us page
+2026-08-12 02:12:50,628 | INFO | builtins | Browser closed: Open Contact Us page
+2026-08-12 02:12:50,629 | INFO | builtins | ===================================
+2026-08-12 02:12:50,629 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 02:12:50,629 | INFO | builtins | ===================================
+2026-08-12 02:14:31,562 | INFO | builtins | ===================================
+2026-08-12 02:14:31,562 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 02:14:31,562 | INFO | builtins | ===================================
+2026-08-12 02:14:31,563 | INFO | builtins | -----------------------------------
+2026-08-12 02:14:31,563 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-12 02:14:33,409 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:14:34,527 | INFO | builtins | Scenario PASSED: Verify footer section
+2026-08-12 02:14:34,743 | INFO | builtins | Browser closed: Verify footer section
+2026-08-12 02:14:34,744 | INFO | builtins | -----------------------------------
+2026-08-12 02:14:34,745 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-12 02:14:36,180 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:14:37,075 | INFO | builtins | Scenario PASSED: Verify footer links
+2026-08-12 02:14:37,191 | INFO | builtins | Browser closed: Verify footer links
+2026-08-12 02:14:37,192 | INFO | builtins | -----------------------------------
+2026-08-12 02:14:37,192 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-12 02:14:38,503 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:14:42,172 | INFO | builtins | Scenario PASSED: Open About Us page
+2026-08-12 02:14:42,434 | INFO | builtins | Browser closed: Open About Us page
+2026-08-12 02:14:42,434 | INFO | builtins | -----------------------------------
+2026-08-12 02:14:42,435 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-12 02:14:43,706 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:14:45,965 | INFO | builtins | Scenario PASSED: Open Contact Us page
+2026-08-12 02:14:46,101 | INFO | builtins | Browser closed: Open Contact Us page
+2026-08-12 02:14:46,105 | INFO | builtins | ===================================
+2026-08-12 02:14:46,105 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 02:14:46,105 | INFO | builtins | ===================================
+2026-08-12 02:22:10,303 | INFO | builtins | ===================================
+2026-08-12 02:22:10,303 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 02:22:10,303 | INFO | builtins | ===================================
+2026-08-12 02:22:10,304 | INFO | builtins | -----------------------------------
+2026-08-12 02:22:10,305 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 02:22:13,539 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:22:29,965 | INFO | builtins | Scenario PASSED: Add a product to cart
+2026-08-12 02:22:30,212 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 02:22:30,213 | INFO | builtins | -----------------------------------
+2026-08-12 02:22:30,213 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 02:22:31,879 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:22:58,173 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-12 02:22:58,358 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 02:22:58,359 | INFO | builtins | -----------------------------------
+2026-08-12 02:22:58,359 | INFO | builtins | Starting Scenario: Open first category
+2026-08-12 02:22:59,879 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:01,842 | INFO | builtins | Scenario PASSED: Open first category
+2026-08-12 02:23:02,001 | INFO | builtins | Browser closed: Open first category
+2026-08-12 02:23:02,002 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:02,002 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-12 02:23:03,359 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:05,460 | INFO | builtins | Scenario PASSED: Verify category filters
+2026-08-12 02:23:05,616 | INFO | builtins | Browser closed: Verify category filters
+2026-08-12 02:23:05,618 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:05,618 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-12 02:23:07,040 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:07,973 | INFO | builtins | Scenario PASSED: Verify footer section
+2026-08-12 02:23:08,095 | INFO | builtins | Browser closed: Verify footer section
+2026-08-12 02:23:08,095 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:08,095 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-12 02:23:09,421 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:10,442 | INFO | builtins | Scenario PASSED: Verify footer links
+2026-08-12 02:23:10,565 | INFO | builtins | Browser closed: Verify footer links
+2026-08-12 02:23:10,566 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:10,566 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-12 02:23:11,895 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:14,027 | INFO | builtins | Scenario PASSED: Open About Us page
+2026-08-12 02:23:14,438 | INFO | builtins | Browser closed: Open About Us page
+2026-08-12 02:23:14,440 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:14,440 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-12 02:23:15,928 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:18,659 | INFO | builtins | Scenario PASSED: Open Contact Us page
+2026-08-12 02:23:18,806 | INFO | builtins | Browser closed: Open Contact Us page
+2026-08-12 02:23:18,806 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:18,806 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-12 02:23:20,129 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:20,992 | INFO | builtins | Scenario PASSED: Verify homepage loads successfully
+2026-08-12 02:23:21,106 | INFO | builtins | Browser closed: Verify homepage loads successfully
+2026-08-12 02:23:21,107 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:21,107 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-12 02:23:22,431 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:23,437 | INFO | builtins | Scenario PASSED: Verify homepage title
+2026-08-12 02:23:23,552 | INFO | builtins | Browser closed: Verify homepage title
+2026-08-12 02:23:23,552 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:23,552 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-12 02:23:24,919 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:25,821 | INFO | builtins | Scenario PASSED: Verify homepage URL
+2026-08-12 02:23:25,936 | INFO | builtins | Browser closed: Verify homepage URL
+2026-08-12 02:23:25,937 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:25,937 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-12 02:23:27,238 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:28,155 | INFO | builtins | Scenario PASSED: Verify search box
+2026-08-12 02:23:28,271 | INFO | builtins | Browser closed: Verify search box
+2026-08-12 02:23:28,271 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:28,271 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-12 02:23:29,579 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:30,553 | INFO | builtins | Scenario PASSED: Verify website logo
+2026-08-12 02:23:30,673 | INFO | builtins | Browser closed: Verify website logo
+2026-08-12 02:23:30,674 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:30,674 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-12 02:23:31,989 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:35,621 | INFO | builtins | Scenario PASSED: Verify login popup
+2026-08-12 02:23:35,745 | INFO | builtins | Browser closed: Verify login popup
+2026-08-12 02:23:35,746 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:35,746 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-12 02:23:37,082 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:40,620 | INFO | builtins | Scenario PASSED: Invalid login
+2026-08-12 02:23:40,743 | INFO | builtins | Browser closed: Invalid login
+2026-08-12 02:23:40,743 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:40,744 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-12 02:23:42,074 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:23:49,904 | INFO | builtins | Scenario PASSED: Verify product details
+2026-08-12 02:23:50,044 | INFO | builtins | Browser closed: Verify product details
+2026-08-12 02:23:50,044 | INFO | builtins | -----------------------------------
+2026-08-12 02:23:50,044 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-12 02:23:51,639 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:24:00,856 | INFO | builtins | Scenario PASSED: Add product to cart
+2026-08-12 02:24:01,007 | INFO | builtins | Browser closed: Add product to cart
+2026-08-12 02:24:01,007 | INFO | builtins | -----------------------------------
+2026-08-12 02:24:01,007 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-12 02:24:02,307 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:24:06,828 | INFO | builtins | Scenario PASSED: Search for Milk
+2026-08-12 02:24:06,978 | INFO | builtins | Browser closed: Search for Milk
+2026-08-12 02:24:06,978 | INFO | builtins | -----------------------------------
+2026-08-12 02:24:06,978 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-12 02:24:08,679 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:24:13,884 | INFO | builtins | Scenario PASSED: Search for Rice
+2026-08-12 02:24:14,131 | INFO | builtins | Browser closed: Search for Rice
+2026-08-12 02:24:14,132 | INFO | builtins | -----------------------------------
+2026-08-12 02:24:14,132 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-12 02:24:15,647 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:24:21,587 | INFO | builtins | Scenario PASSED: Search for Biscuit
+2026-08-12 02:24:21,729 | INFO | builtins | Browser closed: Search for Biscuit
+2026-08-12 02:24:21,730 | INFO | builtins | -----------------------------------
+2026-08-12 02:24:21,730 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-12 02:24:23,088 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:24:27,344 | INFO | builtins | Scenario PASSED: Search for Egg
+2026-08-12 02:24:27,529 | INFO | builtins | Browser closed: Search for Egg
+2026-08-12 02:24:27,530 | INFO | builtins | -----------------------------------
+2026-08-12 02:24:27,530 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-12 02:24:28,888 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:24:39,158 | INFO | builtins | Scenario PASSED: Search for Cooking Oil
+2026-08-12 02:24:39,322 | INFO | builtins | Browser closed: Search for Cooking Oil
+2026-08-12 02:24:39,322 | INFO | builtins | ===================================
+2026-08-12 02:24:39,322 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 02:24:39,322 | INFO | builtins | ===================================
+2026-08-12 02:28:06,246 | INFO | builtins | ===================================
+2026-08-12 02:28:06,246 | INFO | builtins | BigBasket BDD Test Execution Started
+2026-08-12 02:28:06,246 | INFO | builtins | ===================================
+2026-08-12 02:28:06,248 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:06,248 | INFO | builtins | Starting Scenario: Add a product to cart
+2026-08-12 02:28:07,922 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:28:22,956 | INFO | builtins | Scenario PASSED: Add a product to cart
+2026-08-12 02:28:23,120 | INFO | builtins | Browser closed: Add a product to cart
+2026-08-12 02:28:23,121 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:23,121 | INFO | builtins | Starting Scenario: Remove a product from cart
+2026-08-12 02:28:24,696 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:28:44,760 | INFO | builtins | Scenario PASSED: Remove a product from cart
+2026-08-12 02:28:44,943 | INFO | builtins | Browser closed: Remove a product from cart
+2026-08-12 02:28:44,944 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:44,944 | INFO | builtins | Starting Scenario: Open first category
+2026-08-12 02:28:46,693 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:28:48,928 | INFO | builtins | Scenario PASSED: Open first category
+2026-08-12 02:28:49,085 | INFO | builtins | Browser closed: Open first category
+2026-08-12 02:28:49,087 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:49,087 | INFO | builtins | Starting Scenario: Verify category filters
+2026-08-12 02:28:50,660 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:28:52,702 | INFO | builtins | Scenario PASSED: Verify category filters
+2026-08-12 02:28:52,891 | INFO | builtins | Browser closed: Verify category filters
+2026-08-12 02:28:52,892 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:52,892 | INFO | builtins | Starting Scenario: Verify footer section
+2026-08-12 02:28:54,477 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:28:55,674 | INFO | builtins | Scenario PASSED: Verify footer section
+2026-08-12 02:28:55,975 | INFO | builtins | Browser closed: Verify footer section
+2026-08-12 02:28:55,976 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:55,976 | INFO | builtins | Starting Scenario: Verify footer links
+2026-08-12 02:28:57,806 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:28:59,089 | INFO | builtins | Scenario PASSED: Verify footer links
+2026-08-12 02:28:59,398 | INFO | builtins | Browser closed: Verify footer links
+2026-08-12 02:28:59,399 | INFO | builtins | -----------------------------------
+2026-08-12 02:28:59,399 | INFO | builtins | Starting Scenario: Open About Us page
+2026-08-12 02:29:00,928 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:02,827 | INFO | builtins | Scenario PASSED: Open About Us page
+2026-08-12 02:29:03,026 | INFO | builtins | Browser closed: Open About Us page
+2026-08-12 02:29:03,027 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:03,027 | INFO | builtins | Starting Scenario: Open Contact Us page
+2026-08-12 02:29:04,972 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:07,863 | INFO | builtins | Scenario PASSED: Open Contact Us page
+2026-08-12 02:29:07,992 | INFO | builtins | Browser closed: Open Contact Us page
+2026-08-12 02:29:07,992 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:07,993 | INFO | builtins | Starting Scenario: Verify homepage loads successfully
+2026-08-12 02:29:09,426 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:10,448 | INFO | builtins | Scenario PASSED: Verify homepage loads successfully
+2026-08-12 02:29:10,622 | INFO | builtins | Browser closed: Verify homepage loads successfully
+2026-08-12 02:29:10,623 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:10,623 | INFO | builtins | Starting Scenario: Verify homepage title
+2026-08-12 02:29:12,297 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:13,659 | INFO | builtins | Scenario PASSED: Verify homepage title
+2026-08-12 02:29:13,866 | INFO | builtins | Browser closed: Verify homepage title
+2026-08-12 02:29:13,867 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:13,868 | INFO | builtins | Starting Scenario: Verify homepage URL
+2026-08-12 02:29:15,295 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:16,363 | INFO | builtins | Scenario PASSED: Verify homepage URL
+2026-08-12 02:29:16,644 | INFO | builtins | Browser closed: Verify homepage URL
+2026-08-12 02:29:16,645 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:16,646 | INFO | builtins | Starting Scenario: Verify search box
+2026-08-12 02:29:18,249 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:19,404 | INFO | builtins | Scenario PASSED: Verify search box
+2026-08-12 02:29:19,731 | INFO | builtins | Browser closed: Verify search box
+2026-08-12 02:29:19,731 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:19,731 | INFO | builtins | Starting Scenario: Verify website logo
+2026-08-12 02:29:21,497 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:22,861 | INFO | builtins | Scenario PASSED: Verify website logo
+2026-08-12 02:29:23,025 | INFO | builtins | Browser closed: Verify website logo
+2026-08-12 02:29:23,026 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:23,026 | INFO | builtins | Starting Scenario: Verify login popup
+2026-08-12 02:29:24,625 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:28,104 | INFO | builtins | Scenario PASSED: Verify login popup
+2026-08-12 02:29:28,229 | INFO | builtins | Browser closed: Verify login popup
+2026-08-12 02:29:28,229 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:28,229 | INFO | builtins | Starting Scenario: Invalid login
+2026-08-12 02:29:30,035 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:33,803 | INFO | builtins | Scenario PASSED: Invalid login
+2026-08-12 02:29:33,980 | INFO | builtins | Browser closed: Invalid login
+2026-08-12 02:29:33,981 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:33,982 | INFO | builtins | Starting Scenario: Verify product details
+2026-08-12 02:29:35,603 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:41,667 | INFO | builtins | Scenario PASSED: Verify product details
+2026-08-12 02:29:41,898 | INFO | builtins | Browser closed: Verify product details
+2026-08-12 02:29:41,900 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:41,900 | INFO | builtins | Starting Scenario: Add product to cart
+2026-08-12 02:29:43,480 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:51,462 | INFO | builtins | Scenario PASSED: Add product to cart
+2026-08-12 02:29:51,623 | INFO | builtins | Browser closed: Add product to cart
+2026-08-12 02:29:51,624 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:51,624 | INFO | builtins | Starting Scenario: Search for Milk
+2026-08-12 02:29:53,271 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:29:57,976 | INFO | builtins | Scenario PASSED: Search for Milk
+2026-08-12 02:29:58,303 | INFO | builtins | Browser closed: Search for Milk
+2026-08-12 02:29:58,304 | INFO | builtins | -----------------------------------
+2026-08-12 02:29:58,304 | INFO | builtins | Starting Scenario: Search for Rice
+2026-08-12 02:29:59,931 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:30:04,847 | INFO | builtins | Scenario PASSED: Search for Rice
+2026-08-12 02:30:05,126 | INFO | builtins | Browser closed: Search for Rice
+2026-08-12 02:30:05,127 | INFO | builtins | -----------------------------------
+2026-08-12 02:30:05,127 | INFO | builtins | Starting Scenario: Search for Biscuit
+2026-08-12 02:30:06,694 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:30:11,484 | INFO | builtins | Scenario PASSED: Search for Biscuit
+2026-08-12 02:30:11,636 | INFO | builtins | Browser closed: Search for Biscuit
+2026-08-12 02:30:11,637 | INFO | builtins | -----------------------------------
+2026-08-12 02:30:11,637 | INFO | builtins | Starting Scenario: Search for Egg
+2026-08-12 02:30:13,257 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:30:18,247 | INFO | builtins | Scenario PASSED: Search for Egg
+2026-08-12 02:30:18,548 | INFO | builtins | Browser closed: Search for Egg
+2026-08-12 02:30:18,550 | INFO | builtins | -----------------------------------
+2026-08-12 02:30:18,550 | INFO | builtins | Starting Scenario: Search for Cooking Oil
+2026-08-12 02:30:20,121 | INFO | builtins | Chrome WebDriver initialized successfully
+2026-08-12 02:30:29,431 | INFO | builtins | Scenario PASSED: Search for Cooking Oil
+2026-08-12 02:30:29,570 | INFO | builtins | Browser closed: Search for Cooking Oil
+2026-08-12 02:30:29,571 | INFO | builtins | ===================================
+2026-08-12 02:30:29,571 | INFO | builtins | BigBasket BDD Test Execution Finished
+2026-08-12 02:30:29,571 | INFO | builtins | ===================================
